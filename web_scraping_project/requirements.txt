@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+selenium
+scrapy
+psycopg2
+pandas
+
